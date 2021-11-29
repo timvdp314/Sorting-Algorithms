@@ -1,0 +1,6 @@
+ .vs/
+ algoritme1/.vs/
+ algoritme1/Debug/
+ algoritme1/algoritme1.sln
+ algoritme1/algoritme1.vcxproj.filters
+  *.vcxproj.user
