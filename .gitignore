@@ -1,0 +1,8 @@
+!.gitignore
+!*/
+*
+
+# Except ...
+!*.cpp
+!*.vcxproj
+# Ignore everything
